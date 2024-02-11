@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+#main {
+    margin: auto;
+    width: 626px;
+}
+
+.logo {
+    margin: 64px 0 32px;
+}
+
+#main h1 {
+    font-size: 32px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: normal;
+    color: #3F3D56;
+    margin-bottom: 16px;
+}
+
+#main h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+#main p span {
+    color: #828282;
+    font-weight: bold;
+}
+
+p, #destinations {
+    color: #828282;
+    line-height: 22px;
+}
+
+p strong{
+    color: #3F3D56;
+
+}
+
+p, a {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#destinations {
+    margin: 32px auto 64px;
+}
+
+.line {
+    border: 1px solid #ECEFF2;
+    margin-bottom: 16px;
+}
+
+#footer a {
+    color: #3F3D56;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#footer a + a {
+    margin-left: 42px;
+}
+
+
+.wave {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 12%;
+}
